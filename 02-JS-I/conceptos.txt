@@ -1,0 +1,24 @@
+
+    Variables = Son un espacio en la memoria de nuestro disco que nos permiten
+                almacenar distintos tipos de dato. 
+
+    Strings = Son una cadena de texto. Ejemplo: 'Hola'. Siempre el String va entre comillas. 
+    
+    Funciones (argumentos, return)= Las funciones son Statements que permiten la ejecución
+                                    del código que está dentro de ellas pero deben ser 
+                                    llamadas para que ejecuten ese código.
+                                    Pueden tener o no argumentos, que son variables que 
+                                    serán usadas dentro de la función. 
+                                    El return lo que hará es devolver un valor y cortará la 
+                                    ejecución de la función. 
+    
+    Declaraciones if = Las declaraciones IF son condicionales, se usan para determinar si 
+                       si una condición se cumple o no, como consecuencia de ello ejecutará
+                       un código específico o no dependiendo de lo que hayamos programado para 
+                        esa condición.  
+    
+    Valores booleanos (true, false)= Los valores booleanos nos devuelven true si algo es verdadero o false si no lo es. 
+                                     Por ejemplo: 4 === '4' será false, ya que 4 es un número entero y '4' es considerado
+                                     un STRING, teniendo en cuenta que el operador === evalua si dos valores son EXTRICTAMENTE
+                                     exactos. 
+
